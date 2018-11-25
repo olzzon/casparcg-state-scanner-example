@@ -1,7 +1,10 @@
 ## CasparCG-State-Scanner Client Example
 
-A simple Client that subscribe realtime from CasparCG-State-Scanner via
-Ip address defined in top of App.js:
+A simple Client that subscribe realtime from CasparCG-State-Scanner via Apollo GraphQL subscriptions.
+
+Run CasparCG-State-Scanner in your CCG-server folder. (https://github.com/olzzon/casparcg-state-scanner/releases)
+
+Set the Ip address defined in top of App.js:
  
 ```
 const CCG_SERVER_IP = "192.7.9.13"
