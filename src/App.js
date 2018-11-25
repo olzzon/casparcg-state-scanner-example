@@ -9,7 +9,7 @@ import { InMemoryCache } from 'apollo-cache-inmemory';
 import gql from "graphql-tag";
 
 //Constants:
-const CCG_SERVER_IP = "localhost";
+const CCG_SERVER_IP = "91.224.210.81";
 
 //Create GraphlQL queries 
 //(usually placed in separate .js file)

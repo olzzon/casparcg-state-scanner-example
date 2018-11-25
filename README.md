@@ -1,6 +1,8 @@
 ## CasparCG-State-Scanner Client Example
 
-A simple Client that subscribe realtime from CasparCG-State-Scanner via: 
+A simple Client that subscribe realtime from CasparCG-State-Scanner via
+Ip address defined in top of App.js:
+ 
 ```
 const CCG_SERVER_IP = "192.7.9.13"
 ```
